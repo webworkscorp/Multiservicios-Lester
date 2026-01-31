@@ -5,7 +5,7 @@ const Stats: React.FC = () => {
   const stats = [
     { label: "Proyectos Ejecutados", value: "150+" },
     { label: "Clientes Satisfechos", value: "95%" },
-    { label: "Años de Trayectoria", value: "10+" },
+    { label: "Años de Trayectoria", value: "20+" },
     { label: "Técnicos Expertos", value: "12" }
   ];
 

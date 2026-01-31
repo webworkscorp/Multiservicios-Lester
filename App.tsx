@@ -9,6 +9,7 @@ import Portfolio from './components/Portfolio';
 import ClosingManifesto from './components/ClosingManifesto';
 import ConversionZone from './components/ConversionZone';
 import Footer from './components/Footer';
+import FloatingWhatsApp from './components/FloatingWhatsApp';
 
 const App: React.FC = () => {
   const [scrolled, setScrolled] = useState(false);
@@ -54,6 +55,7 @@ const App: React.FC = () => {
       </main>
 
       <Footer />
+      <FloatingWhatsApp />
     </div>
   );
 };

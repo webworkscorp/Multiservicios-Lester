@@ -15,7 +15,7 @@ const TrustSection: React.FC = () => {
         </div>
         <div className="grid grid-cols-2 gap-8 border-l-2 border-brand-crimson pl-12 py-4">
           <div>
-            <span className="block text-5xl font-black text-brand-dark tracking-tighter">10+</span>
+            <span className="block text-5xl font-black text-brand-dark tracking-tighter">20+</span>
             <span className="text-[10px] uppercase font-black text-gray-400 tracking-[0.2em]">Años de Trayectoria</span>
           </div>
           <div>
